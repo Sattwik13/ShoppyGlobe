@@ -18,12 +18,14 @@ shoppyglobe/
 │   ├── assets/                # Images, icons, logos
 │   ├── components/
 │   │   ├── Header.jsx
+│   │   ├── Footer.jsx
 │   │   ├── ProductItem.jsx
 │   │   ├── ProductList.jsx
 │   │   ├── ProductDetail.jsx
 │   │   ├── CartItem.jsx
 │   │   ├── Cart.jsx
 │   │   ├── Hero.jsx
+│   │   ├── Services.jsx
 │   │   └── NotFound.jsx
 │   ├── hooks/
 │   │   └── useProducts.js
