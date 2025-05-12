@@ -3,6 +3,11 @@
 ShoppyGlobe is a modern e-commerce web application built with **React**, **Redux**, **React Router**, and **Tailwind CSS**, allowing users to browse products, view product details, manage a shopping cart, and proceed to checkout. It fetches product data dynamically from an external API (`https://fakestoreapi.com/products`).
 
 ---
+## Github Link--
+
+https://fakestoreapi.com/products
+
+---
 
 ## Folder Structure
 
