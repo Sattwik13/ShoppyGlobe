@@ -160,15 +160,19 @@ This structure ensures separation of concerns, reusability, and a scalable found
 
 ## 📦 Installation & Setup
 
+
+#### Clone the repository
+
 ```bash
-# Clone the repository
 git clone https://github.com/Sattwik13/ShoppyGlobe.git
 cd ShoppyGlobe
-
-# Install dependencies
+```
+### Install dependencies
+```bash
 npm install
-
-# Run the development server
+```
+### Run the development server
+```bash
 npm run dev
 ```
 ## Production Build
