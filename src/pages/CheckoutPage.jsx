@@ -1,4 +1,5 @@
 import { useSelector } from 'react-redux';
+import Cart from '../components/Cart';
 
 const CheckoutPage = () => {
   const cartItems = useSelector((state) => state.cart.items);
@@ -9,7 +10,7 @@ const CheckoutPage = () => {
   return (
     <>
     <main className="min-h-screen  bg-linear-to-t from-indigo-900 to-gray-800 dark:bg-gray-900 text-white p-6">
-      <cart />
+      <Cart />
       <div className="max-w-3xl mt-15 mx-auto  bg-linear-to-t from-gray-800 to-indigo-900 dark:bg-gray-900 rounded-lg shadow-lg p-6">
         <h1 className="text-3xl font-bold mb-4 text-center">Checkout</h1>
 
